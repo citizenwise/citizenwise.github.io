@@ -261,3 +261,4 @@ figure.shots .hl img{width:100%;margin:0}
  figure,li,.card,.faq{break-inside:avoid}h2{break-after:avoid}
  figure.shots img{max-width:45mm;box-shadow:none}.ring{display:none}.card,.country-card{box-shadow:none}
  .answers li{background:none;padding:0 6px 0 0}.answers li:not(:last-child)::after{content:","}}
+.cform{display:grid;gap:var(--s3)}.cform label{font-weight:700}.cform input,.cform textarea{font:inherit;color:var(--ink);background:var(--surface);border:2px solid var(--outline);border-radius:var(--r-control);padding:12px;min-height:52px;width:100%}.cform button{font-family:inherit;cursor:pointer;justify-self:start}.hp{display:none}
